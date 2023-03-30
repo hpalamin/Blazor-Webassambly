@@ -1,0 +1,96 @@
+﻿@page "/index"
+@using MasterDetail.Shared;
+@inject HttpClient http
+@inject NavigationManager navigationManager
+
+
+<h3 class="border-2 shadow m-auto text-center w-50 p-3" style="background-color: #e6ecff">BOOKING RECORDS</h3>
+<div class="d-flex justify-content-center mb-2 mt-3">
+    <a class="btn btn-outline-primary btm-sm shadow mb-3" href="/create">New Booking Record</a>
+</div>
+@if (customers is null)
+{
+    <div class="d-flex justify-content-center mt-5">
+        <img src="/Images/loading.gif" />
+    </div>
+}
+@if (customers is not null)
+{
+    @foreach (var customer in customers)
+    {
+        <div class="card col-8 m-auto mt-2">
+            <div class="card-header d-flex justify-content-center rounded-pill shadow" style="background-color: #e6ecff">
+                <div class="rounded">
+                    <img src="/Images/@customer.Picture" width="90" class="mr-2 border-2 shadow rounded-circle m-3 p-3"/>               
+                </div>
+                <div class="m-auto">
+                    <h3 class="display-4">@customer.CustomerName</h3>
+                </div>
+                @*<div>
+        <a class="btn btn-success" href="customer/edit/@customer.CustomerId">Edit</a>
+        <a class="btn btn-warning" @onclick="@(()=> Delete(customer.CustomerId))">Delete</a>
+        </div>*@
+            </div>
+            <div class="card-body">
+                <table class="table table-bordered table-striped table-sm w-50 m-auto">
+                    <thead>
+                        <tr>
+                            @*<th>SpotId</th>*@
+                            <th class="text-center">Selected Spots</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var singleEntry in customer.BookingEntries)
+                        {
+                            <tr>
+                                @*<td>@singleEntry.SpotId</td>*@
+                                <td class="text-center">@singleEntry.Spot.SpotName</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <div class="card-footer d-flex justify-content-center">
+                @*<div>
+        <img src="/Images/@customer.Picture" width="32" class="mr-2" />
+        Name: @customer.CustomerName
+        </div>*@
+                <div>
+                    <a class="btn btn-outline-success" href="customer/edit/@customer.CustomerId">Edit</a>
+                    <a class="btn btn-outline-danger" @onclick="@(()=> Delete(customer.CustomerId))">Delete</a>
+                </div>
+            </div>
+        </div>
+    }
+}
+
+
+
+@code {
+    List<Customer> customers { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadData();
+    }
+    async Task LoadData()
+    {
+        customers = await http.GetFromJsonAsync<List<Customer>>("api/MasterDetails/GetCustomers");
+    }
+
+    async Task Delete(int customerId)
+    {
+        var response = await http.DeleteAsync($"api/MasterDetails/{customerId}");
+
+        if (response.IsSuccessStatusCode)
+        {
+            // remove the deleted customer from the list
+            customers.RemoveAll(c => c.CustomerId == customerId);
+            StateHasChanged();
+        }
+        else
+        {
+            Console.WriteLine(await response.Content.ReadAsStringAsync());
+        }
+    }
+}

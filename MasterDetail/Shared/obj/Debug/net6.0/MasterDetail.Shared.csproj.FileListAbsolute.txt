@@ -1,0 +1,48 @@
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Shared\bin\Debug\net6.0\MasterDetail.Shared.deps.json
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Shared\bin\Debug\net6.0\MasterDetail.Shared.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Shared\bin\Debug\net6.0\MasterDetail.Shared.pdb
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.csproj.AssemblyReference.cache
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.AssemblyInfoInputs.cache
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.AssemblyInfo.cs
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\refint\MasterDetail.Shared.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.pdb
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\ref\MasterDetail.Shared.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Shared\bin\Debug\net6.0\MasterDetail.Shared.deps.json
+E:\BlazorProject\MasterDetail\MasterDetail\Shared\bin\Debug\net6.0\MasterDetail.Shared.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Shared\bin\Debug\net6.0\MasterDetail.Shared.pdb
+E:\BlazorProject\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.csproj.AssemblyReference.cache
+E:\BlazorProject\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\BlazorProject\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.AssemblyInfoInputs.cache
+E:\BlazorProject\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.AssemblyInfo.cs
+E:\BlazorProject\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.csproj.CoreCompileInputs.cache
+E:\BlazorProject\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\refint\MasterDetail.Shared.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.pdb
+E:\BlazorProject\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\ref\MasterDetail.Shared.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Shared\bin\Debug\net6.0\MasterDetail.Shared.deps.json
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Shared\bin\Debug\net6.0\MasterDetail.Shared.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Shared\bin\Debug\net6.0\MasterDetail.Shared.pdb
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.AssemblyInfo.cs
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\refint\MasterDetail.Shared.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.pdb
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\ref\MasterDetail.Shared.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Shared\bin\Debug\net6.0\MasterDetail.Shared.deps.json
+E:\1269771\Blazor\MasterDetail\MasterDetail\Shared\bin\Debug\net6.0\MasterDetail.Shared.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Shared\bin\Debug\net6.0\MasterDetail.Shared.pdb
+E:\1269771\Blazor\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.csproj.AssemblyReference.cache
+E:\1269771\Blazor\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\1269771\Blazor\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.AssemblyInfoInputs.cache
+E:\1269771\Blazor\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.AssemblyInfo.cs
+E:\1269771\Blazor\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.csproj.CoreCompileInputs.cache
+E:\1269771\Blazor\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\refint\MasterDetail.Shared.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\MasterDetail.Shared.pdb
+E:\1269771\Blazor\MasterDetail\MasterDetail\Shared\obj\Debug\net6.0\ref\MasterDetail.Shared.dll

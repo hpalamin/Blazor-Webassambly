@@ -1,0 +1,1256 @@
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.csproj.AssemblyReference.cache
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.AssemblyInfoInputs.cache
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.AssemblyInfo.cs
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.csproj.CoreCompileInputs.cache
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.RazorAssemblyInfo.cache
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.RazorAssemblyInfo.cs
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Client.staticwebassets.runtime.json
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Server.staticwebassets.runtime.json
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Server.exe
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Server.deps.json
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Server.runtimeconfig.json
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Server.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Server.pdb
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Duende.IdentityServer.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Duende.IdentityServer.AspNetIdentity.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.Storage.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Duende.IdentityServer.Storage.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Client.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Shared.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Client.pdb
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Shared.pdb
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets\msbuild.MasterDetail.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.MasterDetail.Server.props
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MasterDetail.Server.props
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MasterDetail.Server.props
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\scopedcss\bundle\MasterDetail.Server.styles.css
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.csproj.CopyComplete
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\refint\MasterDetail.Server.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.pdb
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.genruntimeconfig.cache
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\ref\MasterDetail.Server.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MessagePack.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mdsha\OneDrive\Desktop\Blazor Project\Ab\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\appsettings.Development.json
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\appsettings.json
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Client.staticwebassets.runtime.json
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Server.staticwebassets.runtime.json
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Server.exe
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Server.deps.json
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Server.runtimeconfig.json
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Server.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Server.pdb
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\AutoMapper.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Duende.IdentityServer.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Duende.IdentityServer.AspNetIdentity.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.Storage.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Duende.IdentityServer.Storage.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Humanizer.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\IdentityModel.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MessagePack.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Build.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.Common.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Client.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Shared.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Client.pdb
+E:\BlazorProject\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Shared.pdb
+E:\BlazorProject\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.csproj.AssemblyReference.cache
+E:\BlazorProject\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\BlazorProject\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.AssemblyInfoInputs.cache
+E:\BlazorProject\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.AssemblyInfo.cs
+E:\BlazorProject\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.csproj.CoreCompileInputs.cache
+E:\BlazorProject\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.MvcApplicationPartsAssemblyInfo.cs
+E:\BlazorProject\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.MvcApplicationPartsAssemblyInfo.cache
+E:\BlazorProject\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.RazorAssemblyInfo.cache
+E:\BlazorProject\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.RazorAssemblyInfo.cs
+E:\BlazorProject\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets\msbuild.MasterDetail.Server.Microsoft.AspNetCore.StaticWebAssets.props
+E:\BlazorProject\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.MasterDetail.Server.props
+E:\BlazorProject\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MasterDetail.Server.props
+E:\BlazorProject\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MasterDetail.Server.props
+E:\BlazorProject\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets.pack.json
+E:\BlazorProject\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets.build.json
+E:\BlazorProject\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets.development.json
+E:\BlazorProject\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\scopedcss\bundle\MasterDetail.Server.styles.css
+E:\BlazorProject\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.csproj.CopyComplete
+E:\BlazorProject\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\refint\MasterDetail.Server.dll
+E:\BlazorProject\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.pdb
+E:\BlazorProject\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.genruntimeconfig.cache
+E:\BlazorProject\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\ref\MasterDetail.Server.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Client.staticwebassets.runtime.json
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Server.staticwebassets.runtime.json
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Server.exe
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Server.deps.json
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Server.runtimeconfig.json
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Server.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Server.pdb
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Duende.IdentityServer.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Duende.IdentityServer.AspNetIdentity.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.Storage.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Duende.IdentityServer.Storage.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MessagePack.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Client.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Shared.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Client.pdb
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Shared.pdb
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.AssemblyInfo.cs
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.RazorAssemblyInfo.cache
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.RazorAssemblyInfo.cs
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets\msbuild.MasterDetail.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.MasterDetail.Server.props
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MasterDetail.Server.props
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MasterDetail.Server.props
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\scopedcss\bundle\MasterDetail.Server.styles.css
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.csproj.CopyComplete
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\refint\MasterDetail.Server.dll
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.pdb
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.genruntimeconfig.cache
+C:\Users\student\Downloads\BlazorProjectOnGit-master\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\ref\MasterDetail.Server.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\appsettings.Development.json
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\appsettings.json
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Client.staticwebassets.runtime.json
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Server.staticwebassets.runtime.json
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Server.exe
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Server.deps.json
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Server.runtimeconfig.json
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Server.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Server.pdb
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\AutoMapper.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Duende.IdentityServer.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Duende.IdentityServer.AspNetIdentity.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.Storage.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Duende.IdentityServer.Storage.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Humanizer.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\IdentityModel.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MessagePack.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Build.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.Common.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Client.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Shared.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Client.pdb
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\bin\Debug\net6.0\MasterDetail.Shared.pdb
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.csproj.AssemblyReference.cache
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.AssemblyInfoInputs.cache
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.AssemblyInfo.cs
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.csproj.CoreCompileInputs.cache
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.MvcApplicationPartsAssemblyInfo.cs
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.MvcApplicationPartsAssemblyInfo.cache
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.RazorAssemblyInfo.cache
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.RazorAssemblyInfo.cs
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets\msbuild.MasterDetail.Server.Microsoft.AspNetCore.StaticWebAssets.props
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.MasterDetail.Server.props
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MasterDetail.Server.props
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MasterDetail.Server.props
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets.pack.json
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets.build.json
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\staticwebassets.development.json
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\scopedcss\bundle\MasterDetail.Server.styles.css
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.csproj.CopyComplete
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\refint\MasterDetail.Server.dll
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.pdb
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\MasterDetail.Server.genruntimeconfig.cache
+E:\1269771\Blazor\MasterDetail\MasterDetail\Server\obj\Debug\net6.0\ref\MasterDetail.Server.dll

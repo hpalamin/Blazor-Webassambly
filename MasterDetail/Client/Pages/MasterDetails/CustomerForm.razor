@@ -1,0 +1,152 @@
+﻿@using MasterDetail.Shared;
+
+<EditForm Model="customer" OnValidSubmit="OnValidSubmit" enctype="multipart/form-data">
+    <div class="row m-auto p-4 mt-3 shadow">
+        <div class="col-6">
+            <input type="hidden" @bind="@customer.CustomerId" />
+
+            <div class="form-group mb-2">
+                <label for="name">Name</label>
+                <div>
+                    <InputText class="form-control" id="name" @bind-Value="@customer.CustomerName" />
+                </div>
+            </div>
+
+            <div class="form-group mb-2">
+                <label for="name">Date of Birth</label>
+                <div>
+                    <InputDate class="form-control" id="name" @bind-Value="@customer.BirthDate" />
+                </div>
+            </div>
+
+            <div class="form-group mb-2">
+                <label for="name">Phone No</label>
+                <div>
+                    <InputNumber class="form-control" id="name" @bind-Value="@customer.Phone" />
+                </div>
+            </div>
+
+            <div class="form-group mb-2">
+                <label for="name">Picture</label>
+                <div>
+                    <InputFile class="form-control" OnChange="HandleFileSelection" />
+
+                </div>
+            </div>
+
+            <div class="form-check mb-2">
+                <InputCheckbox class="form-check-input" name="maritalStatus" id="maritalStatus" @bind-Value="customer.MaritialStatus" />
+                <label class="form-check-label" for="maritalStatus">
+                    Married
+                </label>
+            </div>
+
+            @*<div class="col-12 mt-5">
+            <h2>Select Spot</h2>
+            <div class="d-flex justify-content-end">
+            <button type="button" @onclick="( ()=> customer.SpotList.Add(new Spot()))" class="btn btn-primary btn-sm">Add More</button>
+            </div>
+
+            <div class="spotContainer"  style="overflow:scroll;height:200px;">
+            @for (int i = 0; i < customer.SpotList.Count; i++)
+            {
+            int index = i;
+            Spot spot = customer.SpotList[index];
+
+            <div class="row form-group mt-2">
+            <div class="col-md-10">
+            <InputSelect @bind-Value="customer.SpotList[index].SpotId" class="form-control">
+            <option value="" selected>---Select---</option>
+            @foreach (var spot in tourSpots)
+            {
+            <option value="@spot.SpotId">@spot.SpotName</option>
+            }
+            </InputSelect>
+            </div>
+
+            <div class="col-md-2">
+            <button type="button" @onclick="@(() => customer.SpotList.RemoveAt(index))" class="btn btn-danger btn-sm">Remove</button>
+            </div>
+            </div>
+
+            }
+            </div>
+
+            </div>*@
+
+            @*<div class="row mt-2">
+            <div class="col">
+            <button type="submit" class="btn btn-primary btn-sm">Submit</button>
+            </div>
+            </div>*@
+
+        </div>
+
+        <div class="col-6 card p-3">
+            @*<h4 class="text-center">Select Spot</h4>*@
+            <div class="d-flex justify-content-center mb-3">
+                <button type="button" @onclick="( ()=> customer.SpotList.Add(new Spot()))" class="btn btn-primary btn-sm" style="width:200px;">Add Spot</button>
+            </div>
+
+            <div class="spotContainer" style="overflow-y:scroll;height:200px;">
+                @for (int i = 0; i < customer.SpotList.Count; i++)
+                {
+                    int index = i;
+                    Spot spot = customer.SpotList[index];
+
+                    <div class="row form-group mt-2">
+                        <div class="col-md-10">
+                            <InputSelect @bind-Value="customer.SpotList[index].SpotId" class="form-control">
+                                <option value="" selected>---Select---</option>
+                                @foreach (var spot in tourSpots)
+                                {
+                                    <option value="@spot.SpotId">@spot.SpotName</option>
+                                }
+                            </InputSelect>
+                        </div>
+
+                        <div class="col-md-2">
+                            <button type="button" @onclick="@(() => customer.SpotList.RemoveAt(index))" class="btn btn-outline-danger btn-sm">-</button>
+                        </div>
+                    </div>
+
+                }
+            </div>
+
+        </div>
+
+        <div class="row mt-4">
+            <div class="col  d-flex justify-content-center">
+                <button type="submit" class="btn btn-outline-primary btn-sm col-3">Save</button>
+            </div>
+        </div>
+    </div>
+
+    @*<div class="row mt-2">
+    <div class="col">
+    <button type="submit" class="btn btn-primary btn-sm">Submit</button>
+    </div>
+    </div>*@
+
+
+
+</EditForm>
+
+@code {
+    [Parameter] public CustomerVM customer { get; set; }
+    [Parameter] public List<Spot> tourSpots { get; set; }
+    [Parameter] public EventCallback OnValidSubmit { get; set; }
+    [Parameter] public EventCallback<IBrowserFile> SelectedFileChanged { get; set; }
+
+    public IBrowserFile selectedFile { get; set; }
+
+
+    public async Task HandleFileSelection(InputFileChangeEventArgs e)
+    {
+        if (e.File is not null)
+        {
+            selectedFile = e.File;
+            await SelectedFileChanged.InvokeAsync(selectedFile);
+        }
+    }
+}

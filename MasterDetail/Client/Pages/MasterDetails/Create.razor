@@ -1,0 +1,81 @@
+﻿@page "/create"
+@using MasterDetail.Shared
+@inject HttpClient http
+@inject NavigationManager navigationManager
+
+
+<h3 class="text-center m-auto border-3 shadow p-3 col-8 mb-3" style="background-color: #e6ecff">ADD NEW BOOKING RECORD</h3>
+
+<CustomerForm customer="customer" OnValidSubmit="OnValidSubmit" tourSpots="tourSpots" SelectedFileChanged="HandleFileChanged"></CustomerForm>
+<div class="d-flex mt-4 justify-content-start">
+    <a class="btn btn-outline-secondary w-25" href="Index">Back to list</a>
+</div>
+
+
+@code {
+    CustomerVM customer = new CustomerVM();
+    List<Spot>? tourSpots = new List<Spot>();
+
+    private IBrowserFile selectedFile;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadData();
+    }
+    async Task LoadData()
+    {
+        selectedFile = null;
+        tourSpots = await http.GetFromJsonAsync<List<Spot>>("api/MasterDetails/GetSpots");
+        customer.SpotList.Add(new Spot());
+    }
+
+    private async Task HandleFileChanged(IBrowserFile file)
+    {
+        selectedFile = file;
+        Console.WriteLine(selectedFile.Name);
+    }
+
+    private async Task OnValidSubmit()
+    {
+        var formData = new MultipartFormDataContent();
+
+        foreach (var prop in typeof(CustomerVM).GetProperties())
+        {
+            var value = prop.GetValue(customer);
+            if (value != null)
+            {
+                if (prop.Name == "SpotList")
+                {
+                    for (int i = 0; i < customer.SpotList.Count(); i++)
+                    {
+                        formData.Add(new StringContent(customer.SpotList[i].SpotId.ToString()), "SpotList[" + i + "].SpotId");
+                    }
+                    continue;
+                }
+                formData.Add(new StringContent(value.ToString()), prop.Name);
+            }
+        }
+        if (selectedFile is not null)
+        {
+            var fileContent = new StreamContent(selectedFile.OpenReadStream());
+            formData.Add(fileContent, "PictureFile", selectedFile.Name);
+        }
+
+        var response = await http.PostAsync("api/MasterDetails", formData);
+
+        var body = await response.Content.ReadAsStringAsync();
+
+        if (response.IsSuccessStatusCode)
+        {
+            // success
+            Console.WriteLine($"the id of the user is: {body}");
+            navigationManager.NavigateTo("Index");
+        }
+        else
+        {
+            // not success
+            Console.WriteLine(body);
+        }
+
+    }
+}
